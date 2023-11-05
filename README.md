@@ -21,7 +21,7 @@ The IntelliJ IDEA Code Comment Generator Plugin is designed to enhance the devel
 
 To install the plugin, follow these steps:
 
-1. **Download:** Download the plugin package from the [GitHub Releases](https://github.com/yourusername/yourplugin/releases) page.
+1. **Download:** Download the plugin package from the [GitHub Releases](https://github.com/srijan2000/CommentGenPlugin.git) page.
 
 2. **Install:** Open IntelliJ IDEA, go to "File" -> "Settings" -> "Plugins," click the gear icon, and choose "Install Plugin from Disk." Select the downloaded plugin package and follow the installation prompts.
 
